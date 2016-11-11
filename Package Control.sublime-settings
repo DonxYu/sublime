@@ -85,6 +85,7 @@
 	[
 		"Alignment",
 		"BracketHighlighter",
+		"ConvertToUTF8",
 		"CTags",
 		"Package Control",
 		"PackageResourceViewer",
